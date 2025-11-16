@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6bacd982-0c5e-484a-9033-4f042ac88f09" name="Changes" comment="Rent a Car - Part 1 - Java Backend Projesi - Docker - PostgreSQL - CRUD İşlemleri - 1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6bacd982-0c5e-484a-9033-4f042ac88f09" name="Changes" comment="Rent a Car - Part 1 - Java Backend Projesi - Docker - PostgreSQL - CRUD İşlemleri - 1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +28,16 @@
   "selectedUrlAndAccountId": {
     "url": "https://github.com/kgokbulut1/RentCarProject.git",
     "accountId": "ba8e5717-28ab-44e7-889a-69d74a03249f"
+  },
+  "recentNewPullRequestHead": {
+    "server": {
+      "useHttp": false,
+      "host": "github.com",
+      "port": null,
+      "suffix": null
+    },
+    "owner": "kgokbulut1",
+    "repository": "RentCarProject"
   }
 }]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -46,18 +54,42 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "develop",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Atlas/Documents/NetBeansProjects/RentCarProject",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="RentCarProject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gokbulut.rentcarproject.RentCarProject" />
+      <module name="RentCarProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gokbulut.rentcarproject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RentCarProject" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -73,7 +105,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1763289589840</updated>
-      <workItem from="1763289590965" duration="1260000" />
+      <workItem from="1763289590965" duration="1502000" />
     </task>
     <task id="LOCAL-00001" summary="Rent a Car - Part 1 - Java Backend Projesi - Docker - PostgreSQL - CRUD İşlemleri - 1">
       <option name="closed" value="true" />
@@ -99,7 +131,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763290474499</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Rent a Car - Part 1 - Java Backend Projesi - Docker - PostgreSQL - CRUD İşlemleri - 1">
+      <option name="closed" value="true" />
+      <created>1763290911430</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1763290911430</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
